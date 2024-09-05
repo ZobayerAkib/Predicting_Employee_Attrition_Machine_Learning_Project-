@@ -26,6 +26,7 @@ The following categorical columns were one-hot encoded using pandas `get_dummies
 
 Columns that had no significant contribution to the analysis, such as those with a single distinct value, were removed:
 
+- **Employeenumber**
 - **EmployeeCount**
 - **StandardHours**
 - **Over18**
